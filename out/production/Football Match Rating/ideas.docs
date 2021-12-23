@@ -1,0 +1,14 @@
+
+Flow of program:
+1. on start - query from database
+2. gets the queried data and create a database(?)
+database -
+every match day and information on the games
+a list of teams and their last five games
+
+
+
+How to represent past games?
+
+How to represent future games?
+
